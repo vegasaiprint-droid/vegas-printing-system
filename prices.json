@@ -1,1 +1,31 @@
-
+{
+  "settings": {
+    "vat": 0.15,
+    "margin_default": 0.30,
+    "margin_vip": 0.20,
+    "margin_new": 0.35,
+    "rush_fee": 0.25,
+    "currency": "SAR"
+  },
+  "products": {
+    "business_card": {
+      "name": "كروت بزنس",
+      "unit": "1000 قطعة",
+      "cost_1000": 0,
+      "cost_500": 0,
+      "cost_100": 0,
+      "delivery_days": 3
+    },
+    "banner": {
+      "name": "بنر فليكس",
+      "unit": "م2",
+      "cost_per_m2": 0,
+      "installation_per_m2": 0,
+      "delivery_days": 2
+    },
+    "menu": {
+      "name": "قوائم طعام",
+      "unit": "1000 نسخة",
+      "cost_1000": 0,
+      "cost_500": 0,
+      "d
