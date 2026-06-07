@@ -10,22 +10,34 @@
   "products": {
     "business_card": {
       "name": "كروت بزنس",
-      "unit": "1000 قطعة",
-      "cost_1000": 0,
-      "cost_500": 0,
-      "cost_100": 0,
+      "cost_1000": 150,
+      "cost_500": 100,
+      "cost_100": 40,
       "delivery_days": 3
     },
     "banner": {
       "name": "بنر فليكس",
-      "unit": "م2",
-      "cost_per_m2": 0,
-      "installation_per_m2": 0,
+      "cost_per_m2": 25,
+      "installation_per_m2": 15,
       "delivery_days": 2
     },
     "menu": {
       "name": "قوائم طعام",
-      "unit": "1000 نسخة",
-      "cost_1000": 0,
-      "cost_500": 0,
-      "d
+      "cost_1000": 800,
+      "cost_500": 500,
+      "delivery_days": 5
+    },
+    "rollup": {
+      "name": "رول أب",
+      "cost_85x200": 180,
+      "cost_100x200": 220,
+      "delivery_days": 3
+    },
+    "flyer": {
+      "name": "فلايرات A5",
+      "cost_1000": 200,
+      "cost_500": 130,
+      "delivery_days": 3
+    }
+  }
+}
